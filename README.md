@@ -10,6 +10,7 @@ Clone the repository
     $ cd Bitcoin-Price-Notifier
 
 
+
 Make sure to add your API Keys before running the program.
 
 
@@ -26,9 +27,9 @@ Go to https://ifttt.com/ and create an account (if you don't already have one) a
 Connect to these applets by confirming your Email ID:
 
 
-[Bitcoin_Price_Updates](https://ifttt.com/applets/sW4YJE3H)
+* [Bitcoin_Price_Updates](https://ifttt.com/applets/sW4YJE3H)
 
-[Bitcoin Price Notifier](https://ifttt.com/applets/WQsCmaYw)
+* [Bitcoin Price Notifier](https://ifttt.com/applets/WQsCmaYw)
 
 
 ## Pre-requisites
