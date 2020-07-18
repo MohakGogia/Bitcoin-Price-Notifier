@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "circulating_supply": 18434368, 
+            "cmc_rank": 1, 
+            "date_added": "2013-04-28T00:00:00.000Z", 
+            "id": 1, 
+            "last_updated": "2020-07-16T12:31:23.000Z", 
+            "max_supply": 21000000, 
+            "name": "Bitcoin", 
+            "num_market_pairs": 8351, 
+            "platform": null, 
+            "quote": {
+                "INR": {
+                    "last_updated": "2020-07-16T12:31:00.000Z", 
+                    "market_cap": 12637211742185.756, 
+                    "percent_change_1h": -0.03702298, 
+                    "percent_change_24h": -1.06918322, 
+                    "percent_change_7d": -2.29102215, 
+                    "price": 685524.5453592852, 
+                    "volume_24h": 1253988387314.4685
+                }
+            }, 
+            "slug": "bitcoin", 
+            "symbol": "BTC", 
+            "tags": [
+                "mineable", 
+                "state-channels", 
+                "sha-256", 
+                "privacy", 
+                "pow", 
+                "store-of-value"
+            ], 
+            "total_supply": 18434368
+        }
+    ], 
+    "status": {
+        "credit_count": 1, 
+        "elapsed": 12, 
+        "error_code": 0, 
+        "error_message": null, 
+        "notice": null, 
+        "timestamp": "2020-07-16T12:32:19.439Z"
+    }
+}
