@@ -32,6 +32,6 @@ You will get a notification immediately on your device when the price of Bitcoin
 
 Regular emails are also sent to your email id to notify you about the Bitcoin price after fetching 5 bitcoin prices.
 
-#### NOTE :
+### NOTE 
 
-The program sleeps for 5 minutes after sending a GET request to let the website update the prices.
+The program sleeps for 5 minutes after sending a GET request to let the website update the price of cryptocurrencies.
