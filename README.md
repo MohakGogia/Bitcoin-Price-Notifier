@@ -7,7 +7,7 @@ Automatically alerts you via notification when the price of Bitcoin drops below 
 Clone the repository
 
     $ git clone https://github.com/MohakGogia/Bitcoin-Price-Notifier
-    $ cd Bitcoin Price Notifier
+    $ cd Bitcoin-Price-Notifier
 
 
 Make sure to add your API Keys before running the program.
@@ -16,6 +16,7 @@ Make sure to add your API Keys before running the program.
 ###### 1. Coin Market Cap API key
 
 Sign up [here](https://pro.coinmarketcap.com/signup) to get an API key.
+
 
 
 ###### 2. IFTTT API key
