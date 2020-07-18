@@ -56,3 +56,12 @@ Regular emails are also sent to your email id to notify you about the Bitcoin pr
 ###### NOTE 
 
 The program sleeps for 5 minutes after sending a GET request to let the website update the price of cryptocurrencies.
+
+
+### Sample Images 
+
+* Bitcoin Price Notification
+![Screenshot_20200716-175513_Shady_Launcher](https://user-images.githubusercontent.com/51714505/87854008-3600fd80-c92c-11ea-98fe-2fd15e300f9d.png)
+
+* Bitcoin Price Updates
+![Screenshot_20200716-180351_Gmail](https://user-images.githubusercontent.com/51714505/87854125-3057e780-c92d-11ea-9b79-e47c8bfc0c49.png)
