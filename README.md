@@ -34,7 +34,7 @@ Connect to these applets by confirming your Email ID:
 
 ## Pre-requisites
 
-You will need to have `Python 3` installed on your device to run the code. You can get one [here](https://www.python.org/downloads/).
+You will need to have `Python 3` installed on your device to run the code. You can get [here](https://www.python.org/downloads/).
 
 ### Libraries
 * [requests](https://requests.readthedocs.io/en/master/) : to fetch the latest bitcoin price
